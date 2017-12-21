@@ -17,8 +17,8 @@ The following is a set of guidelines for contributing to any of our projects, wh
 
 ## Code of Conduct and Values
 
-Please note that this project is released with a [Contributor Code of Conduct](../CODE_OF_CONDUCT.md)
-and company's [values](../VALUES.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/bizneo/base/blob/master/files/CODE_OF_CONDUCT.md)
+and company's [values](https://github.com/bizneo/base/blob/master/files/VALUES.md). By participating in this project you agree to abide by its terms.
 
 ## How Can I Contribute?
 
